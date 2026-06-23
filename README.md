@@ -1,10 +1,3 @@
-
----
-
-# README TP2 — `classification-ensemble-learning`
-
-Archivo: `README.md`
-
 ```markdown
 # Classification and Ensemble Learning
 
