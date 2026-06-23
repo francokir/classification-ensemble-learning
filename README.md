@@ -1,4 +1,4 @@
-```markdown
+
 # Classification and Ensemble Learning
 
 Implementation and evaluation of classification models for student performance prediction.
@@ -57,7 +57,6 @@ The project includes both binary and multiclass classification, with a focus on 
 
 ## Project Structure
 
-```text
 .
 ├── README.md
 ├── requirements.txt
